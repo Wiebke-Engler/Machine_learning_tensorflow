@@ -1,4 +1,4 @@
-Site ID,Latitude,Longitude,Time Period,Material Composition,Script Detected,AI Prediction Score,Human Activity Index,Climate Change Impact,Sonar Radar Detection,Looting Risk (%)
+Site ID,Latitude,Longitude,Time Period,Material_Composition,Script Detected,AI Prediction Score,Human Activity Index,Climate Change Impact,Sonar Radar Detection,Looting Risk (%)
 EGX-0001,25.979264261610137,33.0875324425252,Periodo Ptolemaico,Caliza,Demótico,66.50148212753898,4.879290364865646,4.338894709270469,77.86563748090798,70.27038506034074
 EGX-0002,30.328797272310524,35.666531597172664,Primer Período Intermedio,Bronce,Griego,90.02667657274908,9.321454563982524,1.3357625298091365,64.01287018190834,11.820311851755061
 EGX-0003,26.38566581408675,35.62349180896296,Antiguo Reino,Yeso,Copto,73.46880257602582,1.2752643161899702,1.8694805556378418,75.21801126182977,73.83930724819238
